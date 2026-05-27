@@ -15,7 +15,7 @@ Official repository for the 1D CNN-based Virtual Sensor to predict liquid holdup
 
 ### Data Processing
 * **`i2mtc_data_processing.ipynb`**  
-  Handles the processing of raw sensor data and the generation of sliding windows using the cross-correlation desynchronization methodology.
+  Handles the processing of raw sensor data and the generation of sliding windows using the synchronization methodology.
 
 ### Specialized Training
 * **`i2mtc_specialized_training.ipynb`**  
